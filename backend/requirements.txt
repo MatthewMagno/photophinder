@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+SQLAlchemy
+psycopg2-binary
+pgvector
+alembic
+Pillow
+boto3
+celery
+redis
+python-multipart
+requests
+numpy
